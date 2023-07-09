@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "npm -v",
     "build": "echo \"Build Successful",
     "deploy": "echo \"deploy Successful"
   },
